@@ -1,0 +1,90 @@
+G:\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+G:\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+G:\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+G:\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+C:\Users\Alumno\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\Proyecto -Miguel\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+F:\Proyecto\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+F:\Proyecto\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+F:\Proyecto\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+F:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+G:\Proyecto\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+G:\Proyecto\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+G:\Proyecto\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+G:\Proyecto\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\pr\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+C:\Users\Miguel\Desktop\3-3 Felix Lopez\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe.config
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.exe
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\bin\Debug\Proyecto -Miguel.pdb
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Form1.resources
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto__Miguel.Properties.Resources.resources
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.GenerateResource.cache
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.exe
+C:\Users\M\Desktop\3-3 Felix Lopez\Proyecto -MigueLon\obj\Debug\Proyecto -Miguel.pdb
